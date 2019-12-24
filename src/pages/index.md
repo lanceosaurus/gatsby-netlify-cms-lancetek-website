@@ -9,8 +9,7 @@ mainpitch:
   description: >
     Lancetek is large enough to tackle complex enterprise projects, but small
     enough to care.  We offer a personal touch  with technical solutions to
-    align with your vision.  We specialize in Content Management Systems
-    utilizing the latest technology.
+    align with your vision.  
 description: >-
   We focus on a few different types of solutions - Content Management Systems,
   JAMStack, Kentico CMS, GatsbyJS
@@ -28,13 +27,13 @@ intro:
         stack that leverages pre-rendering, Single Page Applications (SPAs),
         Content Delivery Networks (CDNs), Content Mangement Systems (CMS) and
         fat clients to deliver lightning-fast load times!
-    - image: /img/tutorials.png
+    - image: /img/jmeter_logo.jpg
       text: >-
         Christmas?  Black Friday? Worried if your site can handle the traffic? 
         We specialize in stress-testing sites to provide reports that show
         exactly how much traffic your site can handle.  Know your site limits
         BEFORE a viral moment takes your site down!
-    - image: /img/meeting-space.png
+    - image: /img/asp-net-core-logo.png
       text: >
         .Net / .Net Core and performance tuning.  We are .Net experts that have
         the experience to bring your application to the next level of

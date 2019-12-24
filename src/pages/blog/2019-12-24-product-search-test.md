@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: product search test
+title: products search test
 date: 2019-12-24T06:27:08.839Z
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit finibus

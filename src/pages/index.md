@@ -1,30 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Lancetek
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: What we do
+subheading: Software development with a difference
 mainpitch:
-  title: Why Kaldi
+  title: Why Lancetek
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Lancetek is large enough to tackle complex enterprise projects, but small
+    enough to care.  We offer a personal touch  with technical solutions to
+    align with your vision.  We specialize in Content Management Systems
+    utilizing the latest technology.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We focus on a few different types of solutions - Content Management Systems,
+  JAMStack, Kentico CMS, GatsbyJS
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/kentico_logo.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Kentico CMS - we are EXPERTS in all things Kentico CMS.  We have been
+        developing using Kentico CMS since 2009 and helped dozens of clients
+        achieve successful Kentico CMS projects.  Our specialization in Kentico
+        CMS  is turning around failing projects to achieve a successful result.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -68,3 +65,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+

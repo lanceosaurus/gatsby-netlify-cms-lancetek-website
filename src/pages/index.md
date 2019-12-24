@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Lancetek
-image: /img/home-jumbotron.jpg
+image: /img/programming.jpg
 heading: What we do
 subheading: Software development with a difference
 mainpitch:
@@ -11,8 +11,8 @@ mainpitch:
     enough to care.  We offer a personal touch  with technical solutions to
     align with your vision.  
 description: >-
-  We focus on a few different types of solutions - Content Management Systems,
-  JAMStack, Kentico CMS, GatsbyJS
+  We focus discovering what you want AND what you need.  Then we leverage our
+  experience to help bring your project to life.
 intro:
   blurbs:
     - image: /img/kentico_logo.jpg
